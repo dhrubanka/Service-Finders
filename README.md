@@ -1,4 +1,4 @@
-# Service-Providers
+# Service-Finder
 App for everyday users to see different available services around their locality
 
 Screenshots:
