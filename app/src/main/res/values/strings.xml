@@ -1,6 +1,15 @@
 <resources>
-    <string name="app_name">Service Providers</string>
+    <string name="app_name">Service Finder</string>
+    <string-array name="service_location_array">
+        <item>All</item>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <item>Ambari</item>
+        <item>Bhangagarh</item>
+        <item>Panbazar</item>
+        <item>Maligaon</item>
+        <item>UzanBazar</item>
+
+    </string-array>
+
+
 </resources>
